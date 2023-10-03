@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  ARCHIVE_URL: ${{ secrets.ARCHIVE_URL }}
+  ARCHIVE_URL: ${{ secrets.https://drive.google.com/file/d/1nSnINeAwvePL-4ZhKrKxZG89k8LaB3qW/view?usp=drivesdk }}
 
 jobs:
   findUnfollowers:
